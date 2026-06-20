@@ -1,4 +1,4 @@
-# SODA-CAP Bird Audio Classification
+# SODA-CAP Bird Species Classification
 
 This repository is a cleaned method-level release for the SODA-CAP bird audio classification paper. It is intended to document the core model and augmentation policy design, not to provide a complete reproduction package with data, trained weights, and cached predictions.
 
